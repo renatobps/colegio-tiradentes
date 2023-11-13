@@ -1885,3 +1885,8 @@ a.navbar-brand {
   padding-bottom:30px;
 }
 
+#linha {
+  width: 100%;
+  border-bottom: 10px solid #FFA34D;
+}
+
