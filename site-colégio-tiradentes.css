@@ -1889,4 +1889,17 @@ a.navbar-brand {
   width: 100%;
   border-bottom: 10px solid #FFA34D;
 }
+#bg-local{
 
+  background-image:url('images/fotoparafinal.jpg');
+  
+  height: 80%;
+  
+  width: 100%;
+  
+  background-size: cover;
+  
+  background-repeat: no-repeat;
+  
+  border: auto solid red;
+}  
