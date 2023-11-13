@@ -1903,3 +1903,13 @@ a.navbar-brand {
   
   border: auto solid red;
 }  
+div.retangulo{
+  width:350px;
+  height:200px;
+  border-top: 15px solid;
+  border-bottom: 15px solid;
+  border-left: 15px solid;
+  border-right: 15px solid;
+  border-color: #FFA34D #FFA34D #FFA34D #FFA34D;
+}  
+
